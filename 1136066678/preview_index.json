@@ -1,6 +1,7 @@
 {
   "qq_number": "3054572429",
   "group_number": "1136066678",
+  "updated_at": "2026-11-15T07:39:30+00:00",
   "skins": [
     {
       "name": "语๑甜味曲奇星普通版",
@@ -8,7 +9,13 @@
       "thumb": "语_甜味曲奇星普通版.bds_py_26_light_thumb.png",
       "full": "语_甜味曲奇星普通版.bds_py_26_light_thumb.png",
       "file_id": "asset_41ab63b43f1447e5a30e123fe1317c53"
+    },
+    {
+      "name": "语๑甜味曲奇星普通版",
+      "file": "语_甜味曲奇星普通版.bdi",
+      "thumb": "语_甜味曲奇星普通版.bdi_py_26_light_thumb.png",
+      "full": "语_甜味曲奇星普通版.bdi_py_26_light_thumb.png",
+      "file_id": "asset_1de10177cf314dd0814ba4de3c5cb4a1"
     }
-  ],
-  "updated_at": "2026-11-15T07:39:20+00:00"
+  ]
 }
